@@ -7,6 +7,6 @@ public class Controller {
 
   @GET
   public String bemVindos() {
-    return "Bem-vindos a API de uma Calculadora!";
+    return "Bem-vindos a uma API calculadora!";
   }
 }
