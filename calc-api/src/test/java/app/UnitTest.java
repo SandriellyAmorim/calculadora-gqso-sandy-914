@@ -8,6 +8,6 @@ public class UnitTest {
   @Test
   public void welcome() {
     Controller controller = new Controller();
-    assertEquals("Welcome to Jooby!", controller.sayHi());
+    assertEquals("Bem-vindos a uma API calculadora!", controller.bemVindos());
   }
 }
